@@ -1,0 +1,5 @@
+This is a MERN(MongoDB,Express,React,Node) Application.
+
+->React (Used React Hooks,Context API)
+->Used Google Book API, Key is present inside client/src/App.js
+->Setting up the server is mentioned in readme.md file in root project folder.
