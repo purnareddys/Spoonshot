@@ -12,6 +12,7 @@
 For starting backend server
 
 ```sh
+$ cd backend
 $ npm install
 $ nodemon server.js
 ```
@@ -19,7 +20,7 @@ $ nodemon server.js
 For frontend
 
 ```sh
-$ cd client
+$ cd frontend
 $ npm install
 $ npm start
 ```
